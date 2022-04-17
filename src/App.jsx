@@ -12,39 +12,39 @@ const SEED_EXPENSES = [
   },
   {
     id: 'e2',
-    title: 'Samsung Monitor',
-    amount: 799.49,
-    date: new Date(2021, 2, 12)
-  },
-  {
-    id: 'e3',
-    title: 'Spotify Subscription',
-    amount: 13.40,
-    date: new Date(2021, 2, 28),
-  },
-  {
-    id: 'e4',
-    title: 'Secret Lab Chair',
-    amount: 499,
-    date: new Date(2021, 5, 12),
-  },
-  {
-    id: 'e5',
     title: 'Christmas Tree',
     amount: 250,
     date: new Date(2021, 11, 13),
   },
   {
-    id: 'e6',
-    title: 'Netflix',
-    amount: 17.50,
-    date: new Date(2022, 0, 23),
+    id: 'e3',
+    title: 'Secret Lab Chair',
+    amount: 499,
+    date: new Date(2021, 5, 12),
   },
   {
-    id: 'e7',
+    id: 'e4',
+    title: 'Spotify Subscription',
+    amount: 13.40,
+    date: new Date(2021, 2, 28),
+  },
+  {
+    id: 'e5',
+    title: 'Samsung Monitor',
+    amount: 799.49,
+    date: new Date(2021, 2, 12)
+  },
+  {
+    id: 'e6',
     title: 'Gym Membership',
     amount: 85.00,
     date: new Date(2022, 2, 4),
+  },
+  {
+    id: 'e7',
+    title: 'Netflix',
+    amount: 17.50,
+    date: new Date(2022, 0, 23),
   }
 ];
 
